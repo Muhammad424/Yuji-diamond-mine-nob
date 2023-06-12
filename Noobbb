@@ -23,8 +23,8 @@ Settings = {
         ["Present"] = 5
 	},
     ["Webhooks"] = {
-        ["Server Hop Webhook"] = "https://discord.com/api/webhooks/1114359421150175333/FH4PLFRcegzTbg2xp0E__RnCjPkSbFJXwZu1kn52FamgdY_3WFZM4Fm6R7zOxR-1SLUV",
-        ["Time Frame Webhook"] = "https://discord.com/api/webhooks/1114359421150175333/FH4PLFRcegzTbg2xp0E__RnCjPkSbFJXwZu1kn52FamgdY_3WFZM4Fm6R7zOxR-1SLUV",
+        ["Server Hop Webhook"] = "https://discord.com/api/webhooks/1117675414530306058/k3I_inRtc0R2Tf4yJ2qiX-rmF0dP7qQLa7pN2k9siZfEsJkDDJ9B_pw4xuFAx8bH7jZo",
+        ["Time Frame Webhook"] = "https://discord.com/api/webhooks/1117675414530306058/k3I_inRtc0R2Tf4yJ2qiX-rmF0dP7qQLa7pN2k9siZfEsJkDDJ9B_pw4xuFAx8bH7jZo",
         ["Timeframe"] = 300 -- Seconds
     },
     ["Pet Team"] = {
@@ -35,7 +35,7 @@ Settings = {
         ["Farm Fruit If Low"] = true,
         ["Min Fruit"] = 100, -- Starts Farming If Below This
         ["Max Fruit"] = 150, -- Stops Farming Once Above This
-        ["Mode"] = "Cyber Cavern" -- Pixel Vault or Server Hop
+        ["Mode"] = "Mystic Mine" -- Pixel Vault or Server Hop
     },
     ["Boosts"] = {
         ["Triple Damage"] = true,
